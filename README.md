@@ -1,2 +1,2 @@
 # CodingNinja-sFile
-Author - Rupesh
+Author - Rupesh Pradhan
